@@ -1,6 +1,6 @@
 # hardware-tester-backend
 
-This code requires python 3.5+.
+This code requires python 3.7+.
 
 ##Installation
 
