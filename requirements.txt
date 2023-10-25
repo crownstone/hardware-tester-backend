@@ -1,5 +1,5 @@
 git+https://github.com/crownstone/bluenet-python-lib.git@1.0.1#egg=BluenetLib
 
 autobahn==19.8.1
-Twisted==19.7.0
+Twisted==23.8.0
 bluepy==1.1.4
